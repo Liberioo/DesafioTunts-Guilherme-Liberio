@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "graphic-avenue-321413",
+  "private_key_id": "b3d2cd7423e7f7e3301473ea0081200e9f97e0d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDiopzo/jCBph9D\n5RWlVb6Ie7vdpALUpww9f9gPfZ9AVU3dgCRkwsCT9Zd4MdJWWT/HEzEwoKfmKYl8\nxQNP6Pqu1RCRf1UcLZqUfSV0D+kKp06VcaAzSFXvYMLmE48bZ3i7S5OH1ZQeYeL0\neOPQte3B+ImkTb4LulennyO88BoV127iXn3/ZeOEVH27uU7lTaToWmiNkeKsTGtF\neb0uEA9vkUiVDr80N8JJ0j/+9jAhg3pPG4nEiwSqjxoFQC0164HqtGKZruxBp8qG\nVpoGAoBYxtnOGhPn/N/Cyx6YrAk9F/F89QZXYykW8DsdNp/4RdLEDZ+BjC9XgEjD\nTGFK1lqBAgMBAAECggEANcWqYBerb594LJZGj/9roRtmhBx9dXIbE95o56gBKHT0\n8BiOyf9xTMnJAgIkK0uqt7OkiKqdm50AW4OtGQEotWGlODhTe8eQNSoKQGLkApyW\npxuaDIDdrtmw9IDwg+qFeT7hxqlUpu7HuASU3PjFbC/pjHvLmyG/2WwHQTVgowyT\nmtXK+sP7YJJskGS7NPhY2OPNHRYigLDZr1OvnJjM4MkTbEPNGQkx8uUHaElPKN7O\nE8Z7u70wGVUPt6BBwzVg4SDY2I1Zv+aNAcJi9EYf+b4n+mvTrLLVxX3kD1Wjhw6Y\nS/As7TNiRMpwQUL5G7bs41EkTyWfcFYfghq469M6CQKBgQDzBhY0gD7WscCphcoS\n3kJFAxN6/og3SiFWPRweqpps/XPld5dEKKN/Tvq3pgh0Af0WwJddlluuoDIcBwB7\nVm0eNrlDdZ0OrFfp5aA8oRPu5B2czEGT7gYtbt8ZopEJljixAaVR5Zunr0FJ/3JA\nHKq1Wej339m5ivoWCFYnN1ZmDQKBgQDuvIJoD3CS7wvUXKKtZGiJXyNIyP5doyCt\n4rc3AKQ+R7SX3fA8HbFFSp/p6/HRlrJr6R9ZglbzN7nWaWTfEOggC8TkIQM3XPPM\nX1yvMNcFbVletw4UNr0bin72xjfLsIz2EvlbEvgGKgpYxHtDD1vJQdcE07kE+6zA\nCIJ0afr9RQKBgGm5aSmX7T57gAR/5sREmvHo/62PU/Uxs8UPus8Ai0QFE0ltuIn3\nYAF/e4UvnxfQ0aj3SiJ1yhbzLDmTNjtyAvCVAA3/+b6rbWec9RPLQ5+278cJ+TGA\n6IEVbct6NLzF9I3U2HYDfK77iFzH241Wq1FP9xD2+oJEmr3BDLHs2hJ1AoGANGL/\nRrBkpol4EhCFzgCjg8lxp64bSxbZu+5s/8/POq9nbI/SAI8PcEIQ1zbkKHamDlHo\nhC66v8IxsGAON3ixRx7uBJVN7F8kTGt8niDcfh9hpgwLNdpRIvMAK0yRv8utEu5U\n82w1Kr0c6h+rYKrFHGOrOC7xgatsW/NCFSOQZPUCgYEAt6i854eEQUb91DjtZNYW\njwefn6y2WbRCE6nH4x/DGDOfjDEb08G84QpjhcgUsspf266K2qxqdjlEkesFS7Rb\nSUnBr93izQh4sOlJhkE+gwCz1yGUGPcZwnQ547Hrs2lcRz5gEgzgYF0GJT5xQi1n\nVYFqXNS2X3Hvkf+C26KK6zA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "liberio@graphic-avenue-321413.iam.gserviceaccount.com",
+  "client_id": "101021575640624251967",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/liberio%40graphic-avenue-321413.iam.gserviceaccount.com"
+}
